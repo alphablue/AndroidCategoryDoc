@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "AndroidCategoryDoc"
-include ':app'
+include(":app")
